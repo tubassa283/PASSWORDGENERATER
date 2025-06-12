@@ -47,6 +47,6 @@ export default {
 
 .checkbox {
   transform: scale(1.5); /* チェックボックスを大きくする */
-  margin-left: 10px; /* チェックボックスを右に少しスペースを追加 */
+  margin-right: 150px; /* チェックボックスを右に少しスペースを追加 */
 }
 </style>
